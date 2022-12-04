@@ -96,6 +96,7 @@ Fraudsters convince drivers they need a windshield repair or replacement when th
 Considering the loss due to fraudulant claims and the increase in premium for all consumers, it is importnant for the insurance companies to identify, investigate and stop fraudulant claims.
 This model is a step towards identification of potential fraud claims. Of course, this is only a start in the process. Each flagged claim should be further investigated and there would be trade-off between the cost of resources and claim amount. However, it is still important to flag potential frauds.
 ### Data
-Vehicle insurance claim data file is downloaded from:
+Vehicle insurance claim data file is downloaded from:</br>
 https://www.kaggle.com/datasets/antopravinjohnbosco/auto-insurance-claims-fraud-detection
 ### Methodology
+The model is built using Machine Learning method. We built a number of ML models before deciding on the best model.
