@@ -1,6 +1,8 @@
 # Insurance Claims Analysis
 This project includes analyzing vehicle accident insurance claims in multiple US states for period covering January 01 - March 01 2015. The analysis involves building a model to flag potential fraudulant claims.
 ## Motivation
+Almost all (49 of 50) US state make auto insurance mandatory. 
+Auto insurance is a major expense for car owners in the United States. Not only is insurance expensive, it’s almost always necessary. 49 out of the country's 50 states make car insurance compulsory for every road user, with only New Hampshire making the possession of auto insurance optional and allowing drivers the choice of driving uninsured. 
 The following statistics is sourced from policygenius.com website.
 ### Car insurance statistics: by the numbers
 * $239 billion (The amount the auto industry generated in 2019 in written premiums).
@@ -74,3 +76,22 @@ For comparison, according to the CPI the prices of all goods rose by an average 
 |2019|0.9%|1.8%|
 |2020|-4.6%|1.2%|
 |2021|3.8%|4.7%|
+
+#### Car insurance fraud facts and statistics for 2022
+
+The total cost of insurance fraud (non-health insurance) is estimated to be more than $40 billion per year. ...
+Auto insurance application fraud is on the rise, which is not unusual when consumers begin to feel greater economic pressures. ...
+72% of alleged fraud victims say their auto insurance premiums increased as a result of reporting fraudulent activity. ...
+The following insurance frauds are reported in https://insurancefraud.org/fraud-stats/
+Fraudsters convince drivers they need a windshield repair or replacement when they don’t. Some glass firms bill for phantom windshield replacements, or replace undamaged windshields. Dishonest glass firms also convince consumers to sign an assignment of benefits (AOB) form. This gives the glass firm the legal right to file claims, make repairs and collect insurance payments. Firms are exploiting AOBs to inflate repair claims.
+
+* 68% of consumers on average aren’t aware of various auto insurance fraud, from faulty windshield replacements to bandit tow truck
+* Nearly 1 in 3 people (32%) believe they’ve been a victim of insurance fraud 
+* Auto insurance fraud is underreported, as 29% of those who say they were victims never reported their suspicions. 
+* Auto insurance fraud is underreported, as 29% of those who say they were victims never reported their suspicions. Women are less likely to report suspected fraud than men (35% versus 24%).
+* 72% of alleged fraud victims say their auto insurance premiums increased as a result. Premium increases are most likely to affect millennials, 78% of whom saw higher costs after being victims of fraud.
+* Consumers need more education about the various types of auto insurance fraud to protect themselves and their wallets. For example, 78% haven’t heard about faulty windshield replacement scams, 77% haven’t heard about bandit tow trucks and 77% aren’t aware of faulty air bag replacement scams.
+* More than one-fifth of drivers lied to their insurer. 22% admit to lying to their auto insurer, most commonly by claiming damage to their vehicle but then pocketing the money intended for repairs, or by lying about their address or number of drivers to get a cheaper premium.
+
+Considering the loss due to fraudulant claims and the increase in premium for all consumers, it is importnant for the insurance companies to identify, investigate and stop fraudulant claims.
+This model is a step towards identification of potential fraud claims. Of course, this is only a start in the process. Each flagged claim should be further investigated and there would be trade-off between the cost of resources and claim amount. However, it is still important to flag potential frauds.
