@@ -1,6 +1,7 @@
 # Insurance Claims Analysis
 This project includes analyzing vehicle accident insurance claims in multiple US states for period covering January 01 - March 01 2015. The analysis involves building a model to flag potential fraudulant claims.
 ## Motivation
+The following statistics is sourced from policygenius.com website.
 ### Car insurance statistics: by the numbers
 * $239 billion (The amount the auto industry generated in 2019 in written premiums).
 
@@ -24,3 +25,52 @@ During this period, 61% of this value came from liability coverage, including bo
 |2017|$217,518,449,804|$132,332,049,280|$26,972,361,714|$58,214,038,810|
 |2018|$232,846,787,082|$142,027,256,699|$28,968,030,655|$61,851,499,728|
 |Total|$1,080,330,842,997|$656,195,440,221|$135,921,175,215|$288,214,227,561|
+
+#### Average car insurance premiums by coverage type
+Car insurance premiums vary depending on the amount of coverage as well as the types of car insurance coverage. 
+
+From 2015 to 2019 the cost of liability coverage increased by an average of 20%. During the same period, comprehensive coverage went up by 16% and collision coverage went up by 18%. The average insurance premiums (for all levels of coverage) was $1,123 during this period.
+
+|Year|Liability|Comprehensive|Collision|
+|----|---------|-------------|---------|
+|2015|$543|$148|$323|
+|2016|$572|$152|$342|
+|2017|$614|$160|$364|
+|2018|$646|$168|$378|
+|2019|$650|$172|$381|
+
+Rates provided by Quadrant Information Services. Rates provided are a sample of costs. 
+
+#### Auto insurance premiums by car type
+In part, the kind of car affects what you pay for insurance. According to our analysis of public rate data, the most expensive type of car to insure is a sedan, followed by an electric sedan. On the other hand, the cheapest to insure is an SUV at $1,886 per year.
+
+Auto insurers determine the cost to insure a car by checking the number of claims, accidents, and theft risk for similar cars. Pricey vehicles are also more expensive to insure than cheaper cars, which would be less expensive to replace after an accident.
+
+|Type|Cost|
+|----|----|
+|Sedan|$2,231|
+|Sedan - electric|$2,063|
+|Small SUV|$2,025|
+|Pickup|$1,890|
+|SUV|$1,886|
+
+Cost of auto insurance premiums compared to other goods
+Auto insurance has gotten more expensive over the course of the last decade. The Consumer Price Index, a measurement that the U.S. Bureau of Labor Statistics uses to track the average change over time in consumer prices, shows that the cost of car insurance has gone up by an average of 3.9% per year since 2011.
+
+The largest year over year change came in 2017, when the CPI shows that the cost of auto coverage increased by 7.7% nationwide. Only in 2020, when drivers stayed off the roads during the height of the COVID-19 pandemic, were prices lower compared to the previous year.
+
+For comparison, according to the CPI the prices of all goods rose by an average of 2% per year during this time. 
+
+|Year|Price change|Price change - all goods|
+|----|------------|------------------------|
+|2011|3.6%|3.2%|
+|2012|3.6%|2.1%|
+|2013|4.2%|1.5%|
+|2014|4.2%|1.6%|
+|2015|5.4%|0.1%|
+|2016|6.2%|1.3%|
+|2017|7.7%|2.1%|
+|2018|7.4%|2.4%|
+|2019|0.9%|1.8%|
+|2020|-4.6%|1.2%|
+|2021|3.8%|4.7%|
