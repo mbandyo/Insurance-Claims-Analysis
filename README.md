@@ -101,3 +101,4 @@ https://www.kaggle.com/datasets/antopravinjohnbosco/auto-insurance-claims-fraud-
 ### Methodology
 The model is built using Machine Learning method. We built a number of ML models before deciding on the best performing one.
 ## Model Details and Steps
+A number of prototypes were built using ensemble methodologies. In order to improve model performance several resampling methods were also used. The fimal model is built using a combination (over and under sampling) sampling. The final model was selected best on the performance metric of the models.
