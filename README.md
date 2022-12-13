@@ -106,5 +106,8 @@ A number of prototypes were built using ensemble methodologies. In order to impr
 
 
 ### Tableau files 
-https://public.tableau.com/authoring/InsuranceFraud_16707860430090/Fraudbasedoncartypeandcapitalloss#1
+https://public.tableau.com/app/profile/kathleen.martyn/viz/InsuranceFraud_16707115601050/FraudintheUSA?publish=yes
 https://public.tableau.com/authoring/InsuranceFraud_16707860430090/FraudintheUSA#1
+https://public.tableau.com/authoring/InsuranceFraud_16707860430090/GenderbreakdownofFraudclaims#1
+https://public.tableau.com/authoring/InsuranceFraud_16707860430090/Incidentalcapitallossorgainsperaccident#1
+https://public.tableau.com/authoring/InsuranceFraud_16707860430090/FraudulentInjuryclaims#1
