@@ -102,6 +102,8 @@ https://www.kaggle.com/datasets/antopravinjohnbosco/auto-insurance-claims-fraud-
 The model is built using Machine Learning method. We built a number of ML models before deciding on the best performing one.
 ## Model Details and Steps
 A number of prototypes were built using ensemble methodologies. In order to improve model performance several resampling methods were also used. The fimal model is built using a combination (over and under sampling) sampling. The final model was selected best on the performance metric of the models.
+After loading data into a dataframe, a priliminary data relevance analysis is done. Data columns insurance policy number, insurance bind date and insured hobbies are dropped since this information should not have a justifiable influence on fraud claim potential.
+The rest of the categorical columns are converted into numeric values to facilitate ML algorithm.
 
 
 
