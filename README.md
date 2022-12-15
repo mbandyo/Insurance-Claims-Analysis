@@ -115,10 +115,10 @@ A number of prototypes were built using ensemble methodologies. In order to impr
 * Train the model on training dataset and test on test dataset.
 
 
-
-
 ### Tableau files 
-![image](https://user-images.githubusercontent.com/107796290/207488238-120e60ca-1a42-43e1-9442-7c398adbb40c.png)
+
+![image](https://user-images.githubusercontent.com/107796290/207746079-11e14a94-2fcb-4df7-8c7a-6762ebd589fb.png)
+
 https://public.tableau.com/app/profile/kathleen.martyn/viz/InsuranceFraud_16707860430090/Dashboard1?publish=yes
 https://public.tableau.com/app/profile/kathleen.martyn/viz/InsuranceFraud_16707115601050/FraudintheUSA?publish=yes
 https://public.tableau.com/authoring/InsuranceFraud_16707860430090/FraudintheUSA#1
