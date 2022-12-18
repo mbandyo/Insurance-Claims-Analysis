@@ -113,6 +113,11 @@ A number of prototypes were built using ensemble methodologies. In order to impr
 * The dataset is divided into training and test datasets. </br>
 * Build resampling models (Oversampling, SMOTE sampling, undersampling, combination of over and undersampling)
 * Train the model on training dataset and test on test dataset.
+### Ensemble Models:
+The first ensemble model was built with Random Forest Classifier. </br>
+The imbalanced report provides the following metric.
+Precision: 52%; 
+
 
 
 ### Tableau files 
