@@ -107,12 +107,7 @@ A number of prototypes were built using ensemble methodologies. In order to impr
 * The rest of the categorical columns are converted into numeric values to facilitate ML algorithm.</br>
 * The dataset is divided into training and test datasets. </br>
 * Balanced Random Forest model is trained on training set and tested on test dataset.</br>
-### Resampling Models:
-* After loading data into a dataframe, a priliminary data relevance analysis is done. Data columns insurance policy number, insurance bind date and insured hobbies are dropped since this information should not have a justifiable influence on fraud claim potential.</br>
-* The rest of the categorical columns are converted into numeric values to facilitate ML algorithm.</br>
-* The dataset is divided into training and test datasets. </br>
-* Build resampling models (Oversampling, SMOTE sampling, undersampling, combination of over and undersampling)
-* Train the model on training dataset and test on test dataset.
+
 ### Ensemble Models:
 The first ensemble model was built with Random Forest Classifier. </br>
 The imbalanced report provides the following metric.
@@ -126,6 +121,12 @@ The imbalanced report provides the following metric.
 |---------| -------| ------- |
 |40%     |  72% | 67% |
 
+### Resampling Models:
+* After loading data into a dataframe, a priliminary data relevance analysis is done. Data columns insurance policy number, insurance bind date and insured hobbies are dropped since this information should not have a justifiable influence on fraud claim potential.</br>
+* The rest of the categorical columns are converted into numeric values to facilitate ML algorithm.</br>
+* The dataset is divided into training and test datasets. </br>
+* Build resampling models (Oversampling, SMOTE sampling, undersampling, combination of over and undersampling)
+* Train the model on training dataset and test on test dataset.
 ### Resampling Models
 Naive Random Oversampling
 |Precision| Recall | Support |
