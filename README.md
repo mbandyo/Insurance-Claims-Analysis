@@ -138,7 +138,6 @@ Naive Random Oversampling
 
 
 ### Tableau files 
-
 ![image](https://user-images.githubusercontent.com/107796290/207746079-11e14a94-2fcb-4df7-8c7a-6762ebd589fb.png)
 Clink links below for the story board:
 https://public.tableau.com/app/profile/kathleen.martyn/viz/InsuranceFraud_16707860430090/Dashboard1?publish=yes
