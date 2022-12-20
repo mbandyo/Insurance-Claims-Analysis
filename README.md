@@ -116,7 +116,23 @@ A number of prototypes were built using ensemble methodologies. In order to impr
 ### Ensemble Models:
 The first ensemble model was built with Random Forest Classifier. </br>
 The imbalanced report provides the following metric.
-Precision: 52%; 
+|Precision| Recall | Support |
+|---------| -------| ------- |
+|52%     |  64% | 67% |
+
+The next ensemble model was built with AdaBoost Classifier. </br>
+The imbalanced report provides the following metric.
+|Precision| Recall | Support |
+|---------| -------| ------- |
+|40%     |  72% | 67% |
+
+### Resampling Models
+Naive Random Oversampling
+|Precision| Recall | Support |
+|---------| -------| ------- |
+|32%     |  60% | 70% |
+
+
 
 
 
