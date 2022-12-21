@@ -166,3 +166,9 @@ https://public.tableau.com/authoring/InsuranceFraud_16707860430090/FraudintheUSA
 https://public.tableau.com/authoring/InsuranceFraud_16707860430090/GenderbreakdownofFraudclaims#1
 https://public.tableau.com/authoring/InsuranceFraud_16707860430090/Incidentalcapitallossorgainsperaccident#1
 https://public.tableau.com/authoring/InsuranceFraud_16707860430090/FraudulentInjuryclaims#1
+
+
+
+#Heat Map 
+
+
