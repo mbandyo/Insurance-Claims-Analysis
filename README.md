@@ -111,15 +111,15 @@ A number of prototypes were built using ensemble methodologies. In order to impr
 ### Ensemble Models:
 The first ensemble model was built with Random Forest Classifier. </br>
 The imbalanced report provides the following metric.
-|Precision| Recall | Support |
-|---------| -------| ------- |
-|52%     |  64% | 67% |
+|Precision| Recall | f1  |Support |
+|---------| -------|-----| ------- |
+|52%     |  64% | 58%|  67% |
 
 The next ensemble model was built with AdaBoost Classifier. </br>
 The imbalanced report provides the following metric.
-|Precision| Recall | Support |
-|---------| -------| ------- |
-|40%     |  72% | 67% |
+|Precision| Recall | f1  |Support |
+|---------| -------| ----| ------- |
+|40%     |  72% | 52%|   67% |
 
 ### Resampling Models:
 * After loading data into a dataframe, a priliminary data relevance analysis is done. Data columns insurance policy number, insurance bind date and insured hobbies are dropped since this information should not have a justifiable influence on fraud claim potential.</br>
@@ -129,9 +129,25 @@ The imbalanced report provides the following metric.
 * Train the model on training dataset and test on test dataset.
 ### Resampling Models
 Naive Random Oversampling
-|Precision| Recall | Support |
-|---------| -------| ------- |
-|32%     |  60% | 70% |
+|Precision| Recall |f1  | Support |
+|---------| -------| ---- | ------- |
+|32%     |  60% | 42% |70% |
+
+SMOTE Oversampling
+|Precision| Recall |f1  | Support |
+|---------| -------| ---- | ------- |
+|36%     |  61% | 46%  |  70% |
+
+Undersampling
+|Precision| Recall |f1  | Support |
+|---------| -------| ---- | ------- |
+|32%     |  69% | 44 %  |  70% |
+
+Combination (Over and Under) Sampling
+|Precision| Recall |f1  | Support |
+|---------| -------| ---- | ------- |
+|33%     |  86% | 47 %  |  70% |
+
 
 
 
