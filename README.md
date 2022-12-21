@@ -98,6 +98,10 @@ This model is a step towards identification of potential fraud claims. Of course
 ### Data
 Vehicle insurance claim data file is downloaded from:</br>
 https://www.kaggle.com/datasets/antopravinjohnbosco/auto-insurance-claims-fraud-detection
+
+### Preliminary Data Analysis and Scrubbing
+The dataset is pretty rich with detailed information. However, the data should be streamlined for model efficiency and transportability.
+
 ### Methodology
 The model is built using Machine Learning method. We built a number of ML models before deciding on the best performing one.
 ## Model Details and Steps
