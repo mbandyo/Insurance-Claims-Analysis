@@ -172,3 +172,4 @@ https://public.tableau.com/authoring/InsuranceFraud_16707860430090/FraudulentInj
 #Heat Map 
 
 
+![2022-12-29 08 43 08](https://user-images.githubusercontent.com/107796290/209962199-95f1fc82-e272-427b-af93-c71f27694513.png)
