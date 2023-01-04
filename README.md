@@ -100,7 +100,7 @@ Vehicle insurance claim data file is downloaded from:</br>
 https://www.kaggle.com/datasets/antopravinjohnbosco/auto-insurance-claims-fraud-detection
 
 ### Preliminary Data Analysis and Scrubbing
-The dataset is pretty rich with detailed information. However, the data should be streamlined for model efficiency and transportability. For ensemble models data raw data was loaded in entireity. Then certsin columns (e.g. policy_number, insurance_bind_date, insured_hobbies etc.) were dropped as these are not logical drivers of insurance fraud. 
+The dataset is pretty rich with detailed information. However, the data should be streamlined for model efficiency and transportability. For ensemble models data raw data was loaded in entireity. Then certain columns (e.g. policy_number, insurance_bind_date, insured_hobbies etc.) were dropped as these are not logical drivers of insurance fraud. 
 
 ### Methodology
 The model is built using Machine Learning method. We built a number of ML models before deciding on the best performing one.
