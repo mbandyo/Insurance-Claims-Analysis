@@ -154,7 +154,8 @@ Combination (Over and Under) Sampling
 
 
 
-
+Presentation ~ GOOGLE slides
+https://docs.google.com/presentation/d/1fpfcVBCG5whydhfQb6tsbEZPiQBnqWoqHFtsyjU71ic/edit#slide=id.g1c5b6f09bd0_0_1419
 
 
 ### Tableau files 
