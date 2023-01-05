@@ -158,8 +158,7 @@ Combination (Over and Under) Sampling
 
 
 ### Tableau files 
-![2023-01-04 20 16 10](https://user-images.githubusercontent.com/107796290/210679757-37ebf4c7-6db2-42c7-92e1-8466ffa99f02.png)
-
+![2023-01-04 20 32 18](https://user-images.githubusercontent.com/107796290/210681532-e41b157b-a1f1-4e49-bee0-d3143d7a3e61.png)
 
 Clink links below for the story board:
 https://public.tableau.com/app/profile/kathleen.martyn/viz/InsuranceFraud_16707860430090/Dashboard1?publish=yes
