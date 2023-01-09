@@ -182,6 +182,15 @@ https://public.tableau.com/app/profile/kathleen.martyn/viz/AutoInsuranceFraudpro
 Clink links below for the story board:
 https://public.tableau.com/app/profile/kathleen.martyn/viz/AutoInsuranceFraud2023/Sheet1
 
+995-2015 Auto insurer auto claims ~ Fraud or not Fraud is the question?
+https://public.tableau.com/views/AutoInsuranceFraud2023/Sheet1?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link
+
+How much loss has incurred pending the Injury claims?
+Well this graph explains based on incident severity and type of collision ~ minor vs major damage and compare if there was fraud committed at the time of the claim. 
+
+
+
+
 
 **Correlation Matrix Heatmap**
 
