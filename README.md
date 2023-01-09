@@ -165,14 +165,20 @@ Dashboard~ Auto Insurance Property and Casulty Claims within the United States
 
 https://public.tableau.com/app/profile/kathleen.martyn/viz/AutoInsurancePCFraudproject1112023/InsuranceClaimstorydashboard?publish=yes
 
-Eastern United States AutoFraud 
-https://public.tableau.com/app/profile/kathleen.martyn/viz/AutoInsuranceFraudproject2023/InsuranceAccidentperstate?publish=yes
+Insurance Accidents per State
+https://public.tableau.com/app/profile/kathleen.martyn/viz/AutoInsuranceFraud2023/InsuranceAccidentperstate
 
 Auto claims count over a ten year period:1995-2015 Auto insurer auto claims ~ Fraud or not Fraud is the question?
 https://public.tableau.com/authoring/InsuranceAutoPCFraudProject1112023/Yearsinsurerreportedautoclaim#2
+
 https://public.tableau.com/views/AutoInsuranceFraudproject1112023/Story2?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link
-Auto claims based on car type:
+
+Auto claims based on car type:(Fraud vs not Fraud)
 https://public.tableau.com/authoring/InsuranceAutoPCFraudProject1112023/Fraudbasedoncartypeandcapitalloss#2
+
+Auto Accidents Cost vs. Collision Type
+https://public.tableau.com/app/profile/kathleen.martyn/viz/AutoInsuranceFraudproject1112023/EasternpartofUSAcollisions
+
 Clink links below for the story board:
 https://public.tableau.com/app/profile/kathleen.martyn/viz/AutoInsuranceFraud2023/Sheet1
 
