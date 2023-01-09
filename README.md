@@ -159,16 +159,19 @@ https://docs.google.com/presentation/d/1fpfcVBCG5whydhfQb6tsbEZPiQBnqWoqHFtsyjU7
 
 
 ### Tableau files 
-![2023-01-04 20 37 05](https://user-images.githubusercontent.com/107796290/210681988-fb547c4a-fec1-457f-bc77-18e85cefd00a.png)
+Dashboard~ Auto Insurance Property and Casulty Claims within the United States 
+https://public.tableau.com/app/profile/kathleen.martyn/viz/AutoInsurancePCFraudproject1112023/InsuranceClaimstorydashboard?publish=yes
 
+Eastern United States AutoFraud 
+https://public.tableau.com/app/profile/kathleen.martyn/viz/AutoInsuranceFraudproject2023/InsuranceAccidentperstate?publish=yes
+
+Auto claims count over a ten year period:
+https://public.tableau.com/authoring/InsuranceAutoPCFraudProject1112023/Yearsinsurerreportedautoclaim#2
+https://public.tableau.com/views/AutoInsuranceFraudproject1112023/Story2?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link
+Auto claims based on car type:
+https://public.tableau.com/authoring/InsuranceAutoPCFraudProject1112023/Fraudbasedoncartypeandcapitalloss#2
 Clink links below for the story board:
-https://public.tableau.com/app/profile/kathleen.martyn/viz/InsuranceFraud_16707860430090/Dashboard1?publish=yes
-https://public.tableau.com/app/profile/kathleen.martyn/viz/InsuranceFraud_16707115601050/FraudintheUSA?publish=yes
-https://public.tableau.com/authoring/InsuranceFraud_16707860430090/FraudintheUSA#1
-https://public.tableau.com/authoring/InsuranceFraud_16707860430090/GenderbreakdownofFraudclaims#1
-https://public.tableau.com/authoring/InsuranceFraud_16707860430090/Incidentalcapitallossorgainsperaccident#1
-https://public.tableau.com/authoring/InsuranceFraud_16707860430090/FraudulentInjuryclaims#1
-
+https://public.tableau.com/app/profile/kathleen.martyn/viz/AutoInsuranceFraud2023/Sheet1
 
 
 #Heat Map 
