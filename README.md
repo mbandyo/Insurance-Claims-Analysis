@@ -159,7 +159,7 @@ https://docs.google.com/presentation/d/1fpfcVBCG5whydhfQb6tsbEZPiQBnqWoqHFtsyjU7
 
 
 ### Tableau files 
-## Data Visualization is a fundamental relation to explore data analysis and contibutes to supporting the functions of machine learning. As you can visualize the classification of machine learning models to get a better understanding of how the performance, accuracy and correlation witin each category related to one another. In this model the heatmap express a correlation between 1to -1 and 0 would have no correlation. 
+ 
 Dashboard~ Auto Insurance Property and Casulty Claims within the United States
 ![image](https://user-images.githubusercontent.com/107796290/211227176-e10cdb86-57c4-4266-b5de-247c80cde08e.png)
 
@@ -177,6 +177,7 @@ Clink links below for the story board:
 https://public.tableau.com/app/profile/kathleen.martyn/viz/AutoInsuranceFraud2023/Sheet1
 
 
-#Heat Map 
+###Correlation Matrix Heatmap##
 
+  Data Visualization is a fundamental relation to explore data analysis and contibutes to supporting the functions of machine learning. As you can visualize the classification of machine learning models to get a better understanding of how the performance, accuracy and correlation witin each category related to one another. In this model the heatmap express a correlation between 1to -1 and 0 would have no correlation. 
 ![2022-12-29 08 43 08](https://user-images.githubusercontent.com/107796290/209962199-95f1fc82-e272-427b-af93-c71f27694513.png)
