@@ -158,7 +158,7 @@ Presentation ~ GOOGLE slides
 https://docs.google.com/presentation/d/1fpfcVBCG5whydhfQb6tsbEZPiQBnqWoqHFtsyjU71ic/edit#slide=id.g1c5b6f09bd0_0_1419
 
 
-### Tableau files 
+ **Tableau Dashboard on Auto Insurance Claims in the Eastern region of the Unites States ** 
  
 Dashboard~ Auto Insurance Property and Casulty Claims within the United States
 ![image](https://user-images.githubusercontent.com/107796290/211227176-e10cdb86-57c4-4266-b5de-247c80cde08e.png)
