@@ -160,7 +160,8 @@ https://docs.google.com/presentation/d/1fpfcVBCG5whydhfQb6tsbEZPiQBnqWoqHFtsyjU7
 
 ### Tableau files 
 
-Dashboard~ Auto Insurance Property and Casulty Claims within the United States 
+Dashboard~ Auto Insurance Property and Casulty Claims within the United States
+![image](https://user-images.githubusercontent.com/107796290/211227176-e10cdb86-57c4-4266-b5de-247c80cde08e.png)
 
 https://public.tableau.com/app/profile/kathleen.martyn/viz/AutoInsurancePCFraudproject1112023/InsuranceClaimstorydashboard?publish=yes
 
