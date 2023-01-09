@@ -189,9 +189,7 @@ How much loss has incurred pending the Injury claims?
 Well this graph explains based on incident severity and type of collision ~ minor vs major damage and compare if there was fraud committed at the time of the claim. 
 
 
-
-
-
 **Correlation Matrix Heatmap**
 
-  Data Visualization is fundamental to exploring data analysis and contributes to supporting machine learning functions. You can visualize the classification of machine learning models to understand better how the performance, accuracy, and correlation within each category relate to one another. In this model, the heatmap expresses a correlation between 1to -1, and 0 would not correlate. ![2022-12-29 08 43 08](https://user-images.githubusercontent.com/107796290/209962199-95f1fc82-e272-427b-af93-c71f27694513.png)
+  Data Visualization is fundamental to exploring data analysis and contributes to supporting machine learning functions. You can visualize the classification of machine learning models to understand better how the performance, accuracy, and correlation within each category relate to one another. In this model, the heatmap expresses a correlation between 1to -1, and 0 would not correlate. ![image](https://user-images.githubusercontent.com/107796290/211431615-a56f908c-b50d-48d1-933c-19997d16f7c3.png)
+
