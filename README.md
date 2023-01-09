@@ -159,7 +159,7 @@ https://docs.google.com/presentation/d/1fpfcVBCG5whydhfQb6tsbEZPiQBnqWoqHFtsyjU7
 
 
 ### Tableau files 
-
+## Data Visualization is a fundamental relation to explore data analysis and contibutes to supporting the functions of machine learning. As you can visualize the classification of machine learning models to get a better understanding of how the performance, accuracy and correlation witin each category related to one another. In this model the heatmap express a correlation between 1to -1 and 0 would have no correlation. 
 Dashboard~ Auto Insurance Property and Casulty Claims within the United States
 ![image](https://user-images.githubusercontent.com/107796290/211227176-e10cdb86-57c4-4266-b5de-247c80cde08e.png)
 
@@ -168,7 +168,7 @@ https://public.tableau.com/app/profile/kathleen.martyn/viz/AutoInsurancePCFraudp
 Eastern United States AutoFraud 
 https://public.tableau.com/app/profile/kathleen.martyn/viz/AutoInsuranceFraudproject2023/InsuranceAccidentperstate?publish=yes
 
-Auto claims count over a ten year period:
+Auto claims count over a ten year period:1995-2015 Auto insurer auto claims ~ Fraud or not Fraud is the question?
 https://public.tableau.com/authoring/InsuranceAutoPCFraudProject1112023/Yearsinsurerreportedautoclaim#2
 https://public.tableau.com/views/AutoInsuranceFraudproject1112023/Story2?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link
 Auto claims based on car type:
