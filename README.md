@@ -161,7 +161,7 @@ https://docs.google.com/presentation/d/1fpfcVBCG5whydhfQb6tsbEZPiQBnqWoqHFtsyjU7
  **Tableau Dashboard on Auto Insurance Claims in the Eastern region of the Unites States ** 
  
 Dashboard~ Auto Insurance Property and Casulty Claims within the United States
-![image](https://user-images.githubusercontent.com/107796290/211227176-e10cdb86-57c4-4266-b5de-247c80cde08e.png)
+![image](https://user-images.githubusercontent.com/107796290/211690650-858718a7-2f7b-4017-b3f8-90dd3e433f4c.png)
 
 https://public.tableau.com/app/profile/kathleen.martyn/viz/AutoInsurancePCFraudproject1112023/InsuranceClaimstorydashboard?publish=yes
 
@@ -191,5 +191,5 @@ Well this graph explains based on incident severity and type of collision ~ mino
 
 **Correlation Matrix Heatmap**
 
-  Data Visualization is fundamental to exploring data analysis and contributes to supporting machine learning functions. You can visualize the classification of machine learning models to understand better how the performance, accuracy, and correlation within each category relate to one another. In this model, the heatmap expresses a correlation between 1to -1, and 0 would not correlate. ![image](https://user-images.githubusercontent.com/107796290/211431615-a56f908c-b50d-48d1-933c-19997d16f7c3.png)
+  Data Visualization is fundamental to exploring data analysis and contributes to supporting machine learning functions. You can visualize the classification of machine learning models to understand better how the performance, accuracy, and correlation within each category relate to one another. In this model, the heatmap expresses a correlation between 1to -1, and 0 would not correlate. ##![image](https://user-images.githubusercontent.com/107796290/211431615-a56f908c-b50d-48d1-933c-19997d16f7c3.png)
 
