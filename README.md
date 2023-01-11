@@ -154,7 +154,7 @@ Combination (Over and Under) Sampling
 
 
 
-Presentation ~ GOOGLE slides
+**Presentation ~ GOOGLE slides**
 https://docs.google.com/presentation/d/1fpfcVBCG5whydhfQb6tsbEZPiQBnqWoqHFtsyjU71ic/edit#slide=id.g1c5b6f09bd0_0_1419
 
 
@@ -191,5 +191,5 @@ Well this graph explains based on incident severity and type of collision ~ mino
 
 **Correlation Matrix Heatmap**
 
-  Data Visualization is fundamental to exploring data analysis and contributes to supporting machine learning functions. You can visualize the classification of machine learning models to understand better how the performance, accuracy, and correlation within each category relate to one another. In this model, the heatmap expresses a correlation between 1to -1, and 0 would not correlate. ##![image](https://user-images.githubusercontent.com/107796290/211431615-a56f908c-b50d-48d1-933c-19997d16f7c3.png)
+  Data Visualization is fundamental to exploring data analysis and contributes to supporting machine learning functions. You can visualize the classification of machine learning models to understand better how the performance, accuracy, and correlation within each category relate to one another. In this model, the heatmap expresses a correlation between 1 to -1, and 0 there is no correlation. ##![image](https://user-images.githubusercontent.com/107796290/211431615-a56f908c-b50d-48d1-933c-19997d16f7c3.png)
 
