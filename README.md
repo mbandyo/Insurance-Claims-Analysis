@@ -162,6 +162,7 @@ https://docs.google.com/presentation/d/1fpfcVBCG5whydhfQb6tsbEZPiQBnqWoqHFtsyjU7
  
 Dashboard~ Auto Insurance Property and Casulty Claims within the United States
 ![image](https://user-images.githubusercontent.com/107796290/211690650-858718a7-2f7b-4017-b3f8-90dd3e433f4c.png)
+https://public.tableau.com/views/AutoInsuranceFraudproject1112023/Story2?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link
 
 https://public.tableau.com/app/profile/kathleen.martyn/viz/AutoInsurancePCFraudproject1112023/InsuranceClaimstorydashboard?publish=yes
 
@@ -171,7 +172,8 @@ https://public.tableau.com/app/profile/kathleen.martyn/viz/AutoInsuranceFraud202
 Auto claims count over a ten year period:1995-2015 Auto insurer auto claims ~ Fraud or not Fraud is the question?
 https://public.tableau.com/authoring/InsuranceAutoPCFraudProject1112023/Yearsinsurerreportedautoclaim#2
 
-https://public.tableau.com/views/AutoInsuranceFraudproject1112023/Story2?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link
+Auto Insurance Fraud ~ states various types of collisions 
+https://public.tableau.com/app/profile/kathleen.martyn/viz/AutoInsuranceFraudproject1112023/EasternpartofUSAcollisions
 
 Auto claims based on car type:(Fraud vs not Fraud)
 https://public.tableau.com/authoring/InsuranceAutoPCFraudProject1112023/Fraudbasedoncartypeandcapitalloss#2
@@ -186,10 +188,11 @@ https://public.tableau.com/app/profile/kathleen.martyn/viz/AutoInsuranceFraud202
 https://public.tableau.com/views/AutoInsuranceFraud2023/Sheet1?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link
 
 How much loss has incurred pending the Injury claims?
-Well this graph explains based on incident severity and type of collision ~ minor vs major damage and compare if there was fraud committed at the time of the claim. 
+Well this graph explains based on incident severity and type of collision ~ minor vs major damage comparing if fraud was indicated witin the claim. 
 
 
 **Correlation Matrix Heatmap**
 
   Data Visualization is fundamental to exploring data analysis and contributes to supporting machine learning functions. You can visualize the classification of machine learning models to understand better how the performance, accuracy, and correlation within each category relate to one another. In this model, the heatmap expresses a correlation between 1 to -1, and 0 there is no correlation. ##![image](https://user-images.githubusercontent.com/107796290/211431615-a56f908c-b50d-48d1-933c-19997d16f7c3.png)
 
+The confusion matrix was not relevate to the data set. 
